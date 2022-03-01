@@ -116,10 +116,10 @@ Api untuk menampilkan list peserta berdasarkan kafilah
 
 **REQUEST**
 
-| Environtment        | Method | Url                                                                                         |
-| ------------------- | ------ | ------------------------------------------------------------------------------------------- |
-| Production          | GET    | `on development`                                                                            |
-| Development / Dummy | GET    | [rizlantamima.github.io/emtq/kafilah/${id-kafilah}/peserta.json](./peserta-by-kafilah.json) |
+| Environtment        | Method | Url                                                                              |
+| ------------------- | ------ | -------------------------------------------------------------------------------- |
+| Production          | GET    | `on development`                                                                 |
+| Development / Dummy | GET    | [rizlantamima.github.io/emtq/peserta-by-kafilah.json](./peserta-by-kafilah.json) |
 
 **QUERY PARAM**
 
@@ -135,10 +135,10 @@ Api untuk menampilkan list peserta berdasarkan cabang
 
 **REQUEST**
 
-| Environtment        | Method | Url                                                                                      |
-| ------------------- | ------ | ---------------------------------------------------------------------------------------- |
-| Production          | GET    | `on development`                                                                         |
-| Development / Dummy | GET    | [rizlantamima.github.io/emtq/cabang/${id-cabang}/peserta.json](./peserta-by-cabang.json) |
+| Environtment        | Method | Url                                                                            |
+| ------------------- | ------ | ------------------------------------------------------------------------------ |
+| Production          | GET    | `on development`                                                               |
+| Development / Dummy | GET    | [rizlantamima.github.io/emtq/peserta-by-cabang.json](./peserta-by-cabang.json) |
 
 **QUERY PARAM**
 
@@ -154,10 +154,10 @@ Api untuk menampilkan list perinfkat dan nilai peserta berdasarkan cabang
 
 **REQUEST**
 
-| Environtment        | Method | Url                                                                                  |
-| ------------------- | ------ | ------------------------------------------------------------------------------------ |
-| Production          | GET    | `on development`                                                                     |
-| Development / Dummy | GET    | [rizlantamima.github.io/emtq/cabang/${id-cabang}/nilai.json](./nilai-by-cabang.json) |
+| Environtment        | Method | Url                                                                        |
+| ------------------- | ------ | -------------------------------------------------------------------------- |
+| Production          | GET    | `on development`                                                           |
+| Development / Dummy | GET    | [rizlantamima.github.io/emtq/nilai-by-cabang.json](./nilai-by-cabang.json) |
 
 **QUERY PARAM**
 
