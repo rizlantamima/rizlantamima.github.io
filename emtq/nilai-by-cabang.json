@@ -1,0 +1,31 @@
+{
+    "code": 200,
+    "status": "success",
+    "message": "Ok!",
+    "data": [
+        {
+            "id": 1,
+            "nama": "Baharudin Jusuf Habiebie",
+            "nilai":[
+                
+            ],
+            "foto":"https://via.placeholder.com/300?text=BJ+Habiebie"
+        },
+        {
+            "id": 2,
+            "nama": "Anya Geraldine",
+            "nilai":[
+                
+            ],
+            "foto":"https://via.placeholder.com/300?text=Anya+Geraldine"
+        },
+        {
+            "id": 3,
+            "nama": "Ariel Noah",
+            "nilai":[
+                
+            ],
+            "foto":"https://via.placeholder.com/300?text=Ariel+Noah"
+        }
+    ]
+}

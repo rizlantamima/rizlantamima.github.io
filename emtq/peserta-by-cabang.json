@@ -1,0 +1,34 @@
+{
+    "code": 200,
+    "status": "success",
+    "message": "Ok!",
+    "data": [
+        {
+            "id": 1,
+            "nama": "Baharudin Jusuf Habiebie",
+            "jadwal_tampil": "2022-03-01",
+            "kafilah": "Kabupaten Sumedang",
+            "jk": "Laki-laki",            
+            "cabang": "MHQ 1 Juz",
+            "foto":"https://via.placeholder.com/300?text=BJ+Habiebie"
+        },
+        {
+            "id": 2,
+            "nama": "Anya Geraldine",
+            "jadwal_tampil": "2022-03-02",
+            "kafilah": "Kabupaten Bandung",
+            "jk": "Perempuan",            
+            "cabang": "MHQ 5 Juz",
+            "foto":"https://via.placeholder.com/300?text=Anya+Geraldine"
+        },
+        {
+            "id": 3,
+            "nama": "Ariel Noah",
+            "jadwal_tampil": "2022-03-03",            
+            "kafilah": "Kabupaten Sumedang",
+            "jk": "Laki-laki",            
+            "cabang": "MHQ 1 Juz",
+            "foto":"https://via.placeholder.com/300?text=Ariel+Noah"
+        }
+    ]
+}

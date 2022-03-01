@@ -1,0 +1,22 @@
+{
+    "code": 200,
+    "status": "success",
+    "message": "Ok!",
+    "data": [
+        {
+            "id": 1,
+            "nama": "[DUMMY] Kabupaten Sumedang",
+            "peringkat_saat_ini":1
+        },
+        {
+            "id": 2,
+            "nama": "[DUMMY] Kabupaten Bandung",
+            "peringkat_saat_ini":2
+        },
+        {
+            "id": 3,
+            "nama": "[DUMMY] Kota Bandung",
+            "peringkat_saat_ini":3
+        }
+    ]
+}
